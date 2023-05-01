@@ -1,0 +1,5 @@
+Aligned transcription: Labels/cinqplustrois.lab vs Resultats/init-AppSurApp-TestSurTst/cinqplustrois.rec
+ LAB:           cinqplustrois 
+ REC: cinq plus neuf          
+  ERROR [+3331]  Index: Label cinqplustrois not in list[0 of 12]
+ FATAL ERROR - Terminating program HResults

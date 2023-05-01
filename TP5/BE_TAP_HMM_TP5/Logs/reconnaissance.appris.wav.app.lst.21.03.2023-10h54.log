@@ -1,0 +1,5 @@
+HVite -T 1 -C Modeles/htk.conf -A -w Modeles/grammaire.htk -d Modeles/appris/ -l Resultats/init-AppSurApp-TestSurTst/ -S Listes/wav.app.lst Modeles/dictionnaire Modeles/liste-mots 
+  ERROR [+5010]  SetScriptFile: Cannot open script file Listes/wav.app.lst
+  ERROR [+5020]  InitShell: SetScriptFile failed on file Listes/wav.app.lst
+  ERROR [+3200]  HVite: InitShell failed
+ FATAL ERROR - Terminating program HVite

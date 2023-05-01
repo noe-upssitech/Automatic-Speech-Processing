@@ -1,0 +1,36 @@
+Tue 21 Mar 2023 11:08:42 AM CET
+
+~~~ modele cinq deja calcule ! ~~~
+~~~ modele cinq deja calcule ! ~~~
+~~~ modele deux deja calcule ! ~~~
+~~~ modele huit deja calcule ! ~~~
+~~~ modele moins deja calcule ! ~~~
+~~~ modele neuf deja calcule ! ~~~
+~~~ modele plus deja calcule ! ~~~
+~~~ modele quatre deja calcule ! ~~~
+~~~ modele sept deja calcule ! ~~~
+~~~ modele six deja calcule ! ~~~
+~~~ modele trois deja calcule ! ~~~
+~~~~~~~~~~~ modele un ~~~~~~~~~~
+HRest -A -C Modeles/htk.conf -l un -L Labels/ -M Modeles/appris/ -e 0.005 -i 90 -T 1 -m 3 Modeles/init//un -S Listes/wav.all.lst 
+Reestimating HMM Modeles/init//un . . . 
+ States   :   2  3 (width)
+ Mixes  s1:   1  1 ( 39  )
+ Num Using:   0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  un
+ MaxIter  :  90
+ Epsilon  :  0.005000
+ Updating :  Transitions Means Variances 
+
+ - system is PLAIN
+10 Examples loaded, Max length = 39, Min length = 14
+Ave LogProb at iter 1 = -1504.00989 using 10 examples
+Ave LogProb at iter 2 = -1451.58362 using 10 examples  change =   52.42627
+Ave LogProb at iter 3 = -1451.56470 using 10 examples  change =    0.01892
+Ave LogProb at iter 4 = -1451.55884 using 10 examples  change =    0.00586
+Ave LogProb at iter 5 = -1451.55579 using 10 examples  change =    0.00305
+Estimation converged at iteration 5
+~~~ modele zero deja calcule ! ~~~
+Tue 21 Mar 2023 11:08:42 AM CET

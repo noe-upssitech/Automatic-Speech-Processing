@@ -1,0 +1,43 @@
+Aligned transcription: Labels/neuf_eric_2012.lab vs Resultats/init-AppSurApp-TestSurTst/neuf_eric_2012.rec
+ LAB: neuf   
+ REC: quatre 
+Aligned transcription: Labels/un_alban_2012.lab vs Resultats/init-AppSurApp-TestSurTst/un_alban_2012.rec
+ LAB: un     
+ REC: quatre 
+Aligned transcription: Labels/un_dominique_2012.lab vs Resultats/init-AppSurApp-TestSurTst/un_dominique_2012.rec
+ LAB: un   
+ REC: cinq 
+Aligned transcription: Labels/un_eric_2012.lab vs Resultats/init-AppSurApp-TestSurTst/un_eric_2012.rec
+ LAB: un   
+ REC: cinq 
+====================== HTK Results Analysis =======================
+  Date: Tue Mar 21 11:08:56 2023
+  Ref : Labels/
+  Rec : Resultats/init-AppSurApp-TestSurTst/cinq_alban_2012.rec
+      : Resultats/init-AppSurApp-TestSurTst/cinq_brice_2012.rec
+      : Resultats/init-AppSurApp-TestSurTst/cinq_dominique_2012.rec
+      : Resultats/init-AppSurApp-TestSurTst/cinq_eric_2012.rec
+      : Resultats/init-AppSurApp-TestSurTst/cinq_etienne_2012.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=116, S=4, N=120]
+WORD: %Corr=96.67, Acc=96.67 [H=116, D=0, S=4, I=0, N=120]
+------------------------ Confusion Matrix -------------------------
+       c   d   h   m   n   p   q   s   s   t   u   z 
+       i   e   u   o   e   l   u   e   i   r   n   e 
+       n   u   i   i   u   u   a   p   x   o       r 
+       q   x   t   n   f   s   t   t       i       o 
+                   s           r           s          Del [ %c / %e]
+cinq  10   0   0   0   0   0   0   0   0   0   0   0    0
+deux   0  10   0   0   0   0   0   0   0   0   0   0    0
+huit   0   0  10   0   0   0   0   0   0   0   0   0    0
+moin   0   0   0  10   0   0   0   0   0   0   0   0    0
+neuf   0   0   0   0   9   0   1   0   0   0   0   0    0 [90.0/0.8]
+plus   0   0   0   0   0  10   0   0   0   0   0   0    0
+quat   0   0   0   0   0   0  10   0   0   0   0   0    0
+sept   0   0   0   0   0   0   0  10   0   0   0   0    0
+ six   0   0   0   0   0   0   0   0  10   0   0   0    0
+troi   0   0   0   0   0   0   0   0   0  10   0   0    0
+  un   2   0   0   0   0   0   1   0   0   0   7   0    0 [70.0/2.5]
+zero   0   0   0   0   0   0   0   0   0   0   0  10    0
+Ins    0   0   0   0   0   0   0   0   0   0   0   0
+===================================================================

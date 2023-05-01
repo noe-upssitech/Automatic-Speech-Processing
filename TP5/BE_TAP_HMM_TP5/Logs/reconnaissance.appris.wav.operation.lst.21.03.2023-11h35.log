@@ -1,0 +1,16 @@
+HVite -T 1 -C Modeles/htk.conf -A -w Modeles/grammaire.htk -d Modeles/appris/ -l Resultats/init-AppSurApp-TestSurTst/ -S Listes/wav.operation.lst Modeles/dictionnaire Modeles/liste-mots 
+Read 12 physical / 12 logical HMMs
+Read lattice with 29 nodes / 47 arcs
+Created network with 53 nodes / 71 links
+File: Tests/cinqplustrois.wav
+SENT-START cinq plus neuf SENT-END  ==  [142 frames] -76.0215 [Ac=-10795.1 LM=0.0] (Act=48.6)
+File: Tests/deux-plus-trois_JM_1.wav
+SENT-START sept plus trois SENT-END  ==  [96 frames] -68.3492 [Ac=-6561.5 LM=0.0] (Act=48.0)
+File: Tests/neuf-moins-deux_JM_1.wav
+SENT-START neuf plus sept SENT-END  ==  [177 frames] -64.4399 [Ac=-11405.9 LM=0.0] (Act=48.9)
+File: Tests/neufmoinssix.wav
+SENT-START sept plus sept SENT-END  ==  [184 frames] -75.2564 [Ac=-13847.2 LM=0.0] (Act=48.9)
+File: Tests/quatremoinsun.wav
+SENT-START sept moins sept SENT-END  ==  [142 frames] -75.0408 [Ac=-10655.8 LM=0.0] (Act=48.6)
+File: Tests/quatre-plus-cinq_JM_1.wav
+SENT-START sept plus sept SENT-END  ==  [167 frames] -66.5020 [Ac=-11105.8 LM=0.0] (Act=48.8)

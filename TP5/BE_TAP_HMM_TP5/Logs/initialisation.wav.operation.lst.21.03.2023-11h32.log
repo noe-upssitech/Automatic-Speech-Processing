@@ -1,0 +1,220 @@
+Tue 21 Mar 2023 11:32:43 AM CET
+~~~ modele cinq deja initialise ! ~~~
+~~~ modele deux deja initialise ! ~~~
+~~~ modele huit deja initialise ! ~~~
+~~~ modele moins deja initialise ! ~~~
+~~~ modele neuf deja initialise ! ~~~
+~~~ modele plus deja initialise ! ~~~
+~~~ modele quatre deja initialise ! ~~~
+~~~ modele sept deja initialise ! ~~~
+~~~ modele six deja initialise ! ~~~
+~~~ modele trois deja initialise ! ~~~
+~~~ modele un deja initialise ! ~~~
+~~~ modele zero deja initialise ! ~~~
+Tue 21 Mar 2023 11:32:43 AM CET
+Tue 21 Mar 2023 11:32:56 AM CET
+~~~~~~~~~~~ modele cinq ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/cinq -l cinq -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/cinq -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/cinq . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 39  )
+ Num Using:   0  0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  cinq
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele deux ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/deux -l deux -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/deux -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/deux . . . 
+ States   :   2  3 (width)
+ Mixes  s1:   1  1 ( 39  )
+ Num Using:   0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  deux
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele huit ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/huit -l huit -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/huit -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/huit . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 39  )
+ Num Using:   0  0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  huit
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele moins ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/moins -l moins -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/moins -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/moins . . . 
+ States   :   2  3  4  5  6 (width)
+ Mixes  s1:   1  1  1  1  1 ( 39  )
+ Num Using:   0  0  0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  moins
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele neuf ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/neuf -l neuf -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/neuf -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/neuf . . . 
+ States   :   2  3  4 (width)
+ Mixes  s1:   1  1  1 ( 39  )
+ Num Using:   0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  neuf
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele plus ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/plus -l plus -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/plus -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/plus . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 39  )
+ Num Using:   0  0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  plus
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele quatre ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/quatre -l quatre -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/quatre -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/quatre . . . 
+ States   :   2  3  4  5  6 (width)
+ Mixes  s1:   1  1  1  1  1 ( 39  )
+ Num Using:   0  0  0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  quatre
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele sept ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/sept -l sept -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/sept -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/sept . . . 
+ States   :   2  3  4 (width)
+ Mixes  s1:   1  1  1 ( 39  )
+ Num Using:   0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  sept
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele six ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/six -l six -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/six -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/six . . . 
+ States   :   2  3  4 (width)
+ Mixes  s1:   1  1  1 ( 39  )
+ Num Using:   0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  six
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele trois ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/trois -l trois -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/trois -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/trois . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 39  )
+ Num Using:   0  0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  trois
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele un ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/un -l un -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/un -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/un . . . 
+ States   :   2  3 (width)
+ Mixes  s1:   1  1 ( 39  )
+ Num Using:   0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  un
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+~~~~~~~~~~~ modele zero ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/zero -l zero -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/zero -S Listes/wav.operation.lst 
+Initialising  HMM Modeles/gabarits/zero . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 39  )
+ Num Using:   0  0  0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  zero
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+  ERROR [+6510]  LOpen: Unable to open label file Labels/cinqplustrois.lab
+ FATAL ERROR - Terminating program HInit
+Tue 21 Mar 2023 11:32:57 AM CET

@@ -1,0 +1,244 @@
+HVite -T 1 -C Modeles/htk.conf -A -w Modeles/grammaire.htk -d Modeles/appris/ -l Resultats/init-AppSurApp-TestSurTst/ -S Listes/wav.all.lst Modeles/dictionnaire Modeles/liste-mots 
+Read 12 physical / 12 logical HMMs
+Read lattice with 17 nodes / 27 arcs
+Created network with 31 nodes / 41 links
+File: Signaux/cinq_alban_2012.wav
+SENT-START cinq SENT-END  ==  [53 frames] -50.0017 [Ac=-2650.1 LM=0.0] (Act=27.5)
+File: Signaux/cinq_brice_2012.wav
+SENT-START cinq SENT-END  ==  [51 frames] -55.7264 [Ac=-2842.0 LM=0.0] (Act=27.5)
+File: Signaux/cinq_dominique_2012.wav
+SENT-START cinq SENT-END  ==  [50 frames] -56.2447 [Ac=-2812.2 LM=0.0] (Act=27.5)
+File: Signaux/cinq_eric_2012.wav
+SENT-START cinq SENT-END  ==  [53 frames] -50.7381 [Ac=-2689.1 LM=0.0] (Act=27.5)
+File: Signaux/cinq_etienne_2012.wav
+SENT-START cinq SENT-END  ==  [65 frames] -54.1174 [Ac=-3517.6 LM=0.0] (Act=27.6)
+File: Signaux/cinq_gabrielides_2012.wav
+SENT-START cinq SENT-END  ==  [76 frames] -60.3429 [Ac=-4586.1 LM=0.0] (Act=27.7)
+File: Signaux/cinq_hyliass_2012.wav
+SENT-START cinq SENT-END  ==  [50 frames] -76.0493 [Ac=-3802.5 LM=0.0] (Act=27.5)
+File: Signaux/cinq_jean_2012.wav
+SENT-START cinq SENT-END  ==  [59 frames] -53.7071 [Ac=-3168.7 LM=0.0] (Act=27.6)
+File: Signaux/cinq_nabil_2012.wav
+SENT-START cinq SENT-END  ==  [60 frames] -76.2808 [Ac=-4576.8 LM=0.0] (Act=27.6)
+File: Signaux/cinq_thomas_2012.wav
+SENT-START cinq SENT-END  ==  [53 frames] -58.4705 [Ac=-3098.9 LM=0.0] (Act=27.5)
+File: Signaux/deux_alban_2012.wav
+SENT-START deux SENT-END  ==  [24 frames] -59.9460 [Ac=-1438.7 LM=0.0] (Act=27.0)
+File: Signaux/deux_brice_2012.wav
+SENT-START deux SENT-END  ==  [30 frames] -53.2681 [Ac=-1598.0 LM=0.0] (Act=27.2)
+File: Signaux/deux_dominique_2012.wav
+SENT-START deux SENT-END  ==  [34 frames] -55.1266 [Ac=-1874.3 LM=0.0] (Act=27.3)
+File: Signaux/deux_eric_2012.wav
+SENT-START deux SENT-END  ==  [37 frames] -59.6175 [Ac=-2205.8 LM=0.0] (Act=27.3)
+File: Signaux/deux_etienne_2012.wav
+SENT-START deux SENT-END  ==  [41 frames] -52.7129 [Ac=-2161.2 LM=0.0] (Act=27.4)
+File: Signaux/deux_gabrielides_2012.wav
+SENT-START deux SENT-END  ==  [42 frames] -53.6172 [Ac=-2251.9 LM=0.0] (Act=27.4)
+File: Signaux/deux_hyliass_2012.wav
+SENT-START deux SENT-END  ==  [42 frames] -53.7586 [Ac=-2257.9 LM=0.0] (Act=27.4)
+File: Signaux/deux_jean_2012.wav
+SENT-START deux SENT-END  ==  [41 frames] -50.3708 [Ac=-2065.2 LM=0.0] (Act=27.4)
+File: Signaux/deux_nabil_2012.wav
+SENT-START deux SENT-END  ==  [26 frames] -66.8223 [Ac=-1737.4 LM=0.0] (Act=27.0)
+File: Signaux/deux_thomas_2012.wav
+SENT-START deux SENT-END  ==  [26 frames] -60.7277 [Ac=-1578.9 LM=0.0] (Act=27.0)
+File: Signaux/huit_alban_2012.wav
+SENT-START huit SENT-END  ==  [43 frames] -48.3708 [Ac=-2079.9 LM=0.0] (Act=27.4)
+File: Signaux/huit_brice_2012.wav
+SENT-START huit SENT-END  ==  [71 frames] -48.6020 [Ac=-3450.7 LM=0.0] (Act=27.6)
+File: Signaux/huit_dominique_2012.wav
+SENT-START huit SENT-END  ==  [44 frames] -53.3515 [Ac=-2347.5 LM=0.0] (Act=27.4)
+File: Signaux/huit_eric_2012.wav
+SENT-START huit SENT-END  ==  [66 frames] -54.4861 [Ac=-3596.1 LM=0.0] (Act=27.6)
+File: Signaux/huit_etienne_2012.wav
+SENT-START huit SENT-END  ==  [58 frames] -52.8563 [Ac=-3065.7 LM=0.0] (Act=27.6)
+File: Signaux/huit_gabrielides_2012.wav
+SENT-START huit SENT-END  ==  [99 frames] -49.6250 [Ac=-4912.9 LM=0.0] (Act=27.7)
+File: Signaux/huit_hyliass_2012.wav
+SENT-START huit SENT-END  ==  [62 frames] -70.1471 [Ac=-4349.1 LM=0.0] (Act=27.6)
+File: Signaux/huit_jean_2012.wav
+SENT-START huit SENT-END  ==  [59 frames] -52.7468 [Ac=-3112.1 LM=0.0] (Act=27.6)
+File: Signaux/huit_nabil_2012.wav
+SENT-START huit SENT-END  ==  [51 frames] -76.2427 [Ac=-3888.4 LM=0.0] (Act=27.5)
+File: Signaux/huit_thomas_2012.wav
+SENT-START huit SENT-END  ==  [43 frames] -66.4064 [Ac=-2855.5 LM=0.0] (Act=27.4)
+File: Signaux/moins_alban_2012.wav
+SENT-START moins SENT-END  ==  [35 frames] -48.6906 [Ac=-1704.2 LM=0.0] (Act=27.3)
+File: Signaux/moins_brice_2012.wav
+SENT-START moins SENT-END  ==  [45 frames] -48.6621 [Ac=-2189.8 LM=0.0] (Act=27.4)
+File: Signaux/moins_dominique_2012.wav
+SENT-START moins SENT-END  ==  [33 frames] -50.0827 [Ac=-1652.7 LM=0.0] (Act=27.2)
+File: Signaux/moins_eric_2012.wav
+SENT-START moins SENT-END  ==  [33 frames] -54.4038 [Ac=-1795.3 LM=0.0] (Act=27.2)
+File: Signaux/moins_etienne_2012.wav
+SENT-START moins SENT-END  ==  [35 frames] -48.2996 [Ac=-1690.5 LM=0.0] (Act=27.3)
+File: Signaux/moins_gabrielides_2012.wav
+SENT-START moins SENT-END  ==  [37 frames] -46.4292 [Ac=-1717.9 LM=0.0] (Act=27.3)
+File: Signaux/moins_hyliass_2012.wav
+SENT-START moins SENT-END  ==  [47 frames] -73.2810 [Ac=-3444.2 LM=0.0] (Act=27.5)
+File: Signaux/moins_jean_2012.wav
+SENT-START moins SENT-END  ==  [48 frames] -47.4648 [Ac=-2278.3 LM=0.0] (Act=27.5)
+File: Signaux/moins_nabil_2012.wav
+SENT-START moins SENT-END  ==  [51 frames] -60.6427 [Ac=-3092.8 LM=0.0] (Act=27.5)
+File: Signaux/moins_thomas_2012.wav
+SENT-START moins SENT-END  ==  [27 frames] -56.8124 [Ac=-1533.9 LM=0.0] (Act=27.1)
+File: Signaux/neuf_alban_2012.wav
+SENT-START neuf SENT-END  ==  [36 frames] -49.4148 [Ac=-1778.9 LM=0.0] (Act=27.3)
+File: Signaux/neuf_brice_2012.wav
+SENT-START neuf SENT-END  ==  [63 frames] -46.9534 [Ac=-2958.1 LM=0.0] (Act=27.6)
+File: Signaux/neuf_dominique_2012.wav
+SENT-START neuf SENT-END  ==  [38 frames] -53.7017 [Ac=-2040.7 LM=0.0] (Act=27.3)
+File: Signaux/neuf_eric_2012.wav
+SENT-START quatre SENT-END  ==  [57 frames] -53.2896 [Ac=-3037.5 LM=0.0] (Act=27.6)
+File: Signaux/neuf_etienne_2012.wav
+SENT-START neuf SENT-END  ==  [55 frames] -51.2340 [Ac=-2817.9 LM=0.0] (Act=27.5)
+File: Signaux/neuf_gabrielides_2012.wav
+SENT-START neuf SENT-END  ==  [200 frames] -46.9954 [Ac=-9399.1 LM=0.0] (Act=27.9)
+File: Signaux/neuf_hyliass_2012.wav
+SENT-START neuf SENT-END  ==  [58 frames] -77.0162 [Ac=-4466.9 LM=0.0] (Act=27.6)
+File: Signaux/neuf_jean_2012.wav
+SENT-START neuf SENT-END  ==  [55 frames] -47.3634 [Ac=-2605.0 LM=0.0] (Act=27.5)
+File: Signaux/neuf_nabil_2012.wav
+SENT-START neuf SENT-END  ==  [47 frames] -72.2107 [Ac=-3393.9 LM=0.0] (Act=27.5)
+File: Signaux/neuf_thomas_2012.wav
+SENT-START neuf SENT-END  ==  [50 frames] -54.5347 [Ac=-2726.7 LM=0.0] (Act=27.5)
+File: Signaux/plus_alban_2012.wav
+SENT-START plus SENT-END  ==  [48 frames] -49.5164 [Ac=-2376.8 LM=0.0] (Act=27.5)
+File: Signaux/plus_brice_2012.wav
+SENT-START plus SENT-END  ==  [67 frames] -51.5148 [Ac=-3451.5 LM=0.0] (Act=27.6)
+File: Signaux/plus_dominique_2012.wav
+SENT-START plus SENT-END  ==  [47 frames] -50.8301 [Ac=-2389.0 LM=0.0] (Act=27.5)
+File: Signaux/plus_eric_2012.wav
+SENT-START plus SENT-END  ==  [55 frames] -55.2537 [Ac=-3039.0 LM=0.0] (Act=27.5)
+File: Signaux/plus_etienne_2012.wav
+SENT-START plus SENT-END  ==  [75 frames] -54.3389 [Ac=-4075.4 LM=0.0] (Act=27.7)
+File: Signaux/plus_gabrielides_2012.wav
+SENT-START plus SENT-END  ==  [58 frames] -52.4230 [Ac=-3040.5 LM=0.0] (Act=27.6)
+File: Signaux/plus_hyliass_2012.wav
+SENT-START plus SENT-END  ==  [55 frames] -70.9626 [Ac=-3902.9 LM=0.0] (Act=27.5)
+File: Signaux/plus_jean_2012.wav
+SENT-START plus SENT-END  ==  [52 frames] -53.6654 [Ac=-2790.6 LM=0.0] (Act=27.5)
+File: Signaux/plus_nabil_2012.wav
+SENT-START plus SENT-END  ==  [49 frames] -68.3020 [Ac=-3346.8 LM=0.0] (Act=27.5)
+File: Signaux/plus_thomas_2012.wav
+SENT-START plus SENT-END  ==  [17 frames] -69.9629 [Ac=-1189.4 LM=0.0] (Act=26.5)
+File: Signaux/quatre_alban_2012.wav
+SENT-START quatre SENT-END  ==  [37 frames] -54.1510 [Ac=-2003.6 LM=0.0] (Act=27.3)
+File: Signaux/quatre_brice_2012.wav
+SENT-START quatre SENT-END  ==  [48 frames] -54.1939 [Ac=-2601.3 LM=0.0] (Act=27.5)
+File: Signaux/quatre_dominique_2012.wav
+SENT-START quatre SENT-END  ==  [52 frames] -51.8810 [Ac=-2697.8 LM=0.0] (Act=27.5)
+File: Signaux/quatre_eric_2012.wav
+SENT-START quatre SENT-END  ==  [51 frames] -57.4200 [Ac=-2928.4 LM=0.0] (Act=27.5)
+File: Signaux/quatre_etienne_2012.wav
+SENT-START quatre SENT-END  ==  [57 frames] -54.8092 [Ac=-3124.1 LM=0.0] (Act=27.6)
+File: Signaux/quatre_gabrielides_2012.wav
+SENT-START quatre SENT-END  ==  [61 frames] -51.9711 [Ac=-3170.2 LM=0.0] (Act=27.6)
+File: Signaux/quatre_hyliass_2012.wav
+SENT-START quatre SENT-END  ==  [47 frames] -72.2066 [Ac=-3393.7 LM=0.0] (Act=27.5)
+File: Signaux/quatre_jean_2012.wav
+SENT-START quatre SENT-END  ==  [39 frames] -55.9091 [Ac=-2180.5 LM=0.0] (Act=27.4)
+File: Signaux/quatre_nabil_2012.wav
+SENT-START quatre SENT-END  ==  [43 frames] -72.2910 [Ac=-3108.5 LM=0.0] (Act=27.4)
+File: Signaux/quatre_thomas_2012.wav
+SENT-START quatre SENT-END  ==  [18 frames] -58.7611 [Ac=-1057.7 LM=0.0] (Act=26.6)
+File: Signaux/sept_alban_2012.wav
+SENT-START sept SENT-END  ==  [38 frames] -51.9601 [Ac=-1974.5 LM=0.0] (Act=27.3)
+File: Signaux/sept_brice_2012.wav
+SENT-START sept SENT-END  ==  [79 frames] -50.2616 [Ac=-3970.7 LM=0.0] (Act=27.7)
+File: Signaux/sept_dominique_2012.wav
+SENT-START sept SENT-END  ==  [40 frames] -53.1001 [Ac=-2124.0 LM=0.0] (Act=27.4)
+File: Signaux/sept_eric_2012.wav
+SENT-START sept SENT-END  ==  [51 frames] -58.7000 [Ac=-2993.7 LM=0.0] (Act=27.5)
+File: Signaux/sept_etienne_2012.wav
+SENT-START sept SENT-END  ==  [74 frames] -52.1600 [Ac=-3859.8 LM=0.0] (Act=27.7)
+File: Signaux/sept_gabrielides_2012.wav
+SENT-START sept SENT-END  ==  [69 frames] -55.1121 [Ac=-3802.7 LM=0.0] (Act=27.6)
+File: Signaux/sept_hyliass_2012.wav
+SENT-START sept SENT-END  ==  [65 frames] -74.8125 [Ac=-4862.8 LM=0.0] (Act=27.6)
+File: Signaux/sept_jean_2012.wav
+SENT-START sept SENT-END  ==  [55 frames] -55.1908 [Ac=-3035.5 LM=0.0] (Act=27.5)
+File: Signaux/sept_nabil_2012.wav
+SENT-START sept SENT-END  ==  [56 frames] -79.9990 [Ac=-4479.9 LM=0.0] (Act=27.6)
+File: Signaux/sept_thomas_2012.wav
+SENT-START sept SENT-END  ==  [73 frames] -54.0498 [Ac=-3945.6 LM=0.0] (Act=27.7)
+File: Signaux/six_alban_2012.wav
+SENT-START six SENT-END  ==  [46 frames] -50.7883 [Ac=-2336.3 LM=0.0] (Act=27.5)
+File: Signaux/six_brice_2012.wav
+SENT-START six SENT-END  ==  [65 frames] -49.9262 [Ac=-3245.2 LM=0.0] (Act=27.6)
+File: Signaux/six_dominique_2012.wav
+SENT-START six SENT-END  ==  [44 frames] -50.2086 [Ac=-2209.2 LM=0.0] (Act=27.4)
+File: Signaux/six_eric_2012.wav
+SENT-START six SENT-END  ==  [74 frames] -49.9613 [Ac=-3697.1 LM=0.0] (Act=27.7)
+File: Signaux/six_etienne_2012.wav
+SENT-START six SENT-END  ==  [76 frames] -51.8383 [Ac=-3939.7 LM=0.0] (Act=27.7)
+File: Signaux/six_gabrielides_2012.wav
+SENT-START six SENT-END  ==  [100 frames] -52.5902 [Ac=-5259.0 LM=0.0] (Act=27.8)
+File: Signaux/six_hyliass_2012.wav
+SENT-START six SENT-END  ==  [71 frames] -73.1956 [Ac=-5196.9 LM=0.0] (Act=27.6)
+File: Signaux/six_jean_2012.wav
+SENT-START six SENT-END  ==  [61 frames] -54.4201 [Ac=-3319.6 LM=0.0] (Act=27.6)
+File: Signaux/six_nabil_2012.wav
+SENT-START six SENT-END  ==  [52 frames] -71.1869 [Ac=-3701.7 LM=0.0] (Act=27.5)
+File: Signaux/six_thomas_2012.wav
+SENT-START six SENT-END  ==  [69 frames] -55.8339 [Ac=-3852.5 LM=0.0] (Act=27.6)
+File: Signaux/trois_alban_2012.wav
+SENT-START trois SENT-END  ==  [47 frames] -55.2546 [Ac=-2597.0 LM=0.0] (Act=27.5)
+File: Signaux/trois_brice_2012.wav
+SENT-START trois SENT-END  ==  [24 frames] -55.1060 [Ac=-1322.5 LM=0.0] (Act=27.0)
+File: Signaux/trois_dominique_2012.wav
+SENT-START trois SENT-END  ==  [47 frames] -53.2712 [Ac=-2503.7 LM=0.0] (Act=27.5)
+File: Signaux/trois_eric_2012.wav
+SENT-START trois SENT-END  ==  [35 frames] -54.8427 [Ac=-1919.5 LM=0.0] (Act=27.3)
+File: Signaux/trois_etienne_2012.wav
+SENT-START trois SENT-END  ==  [58 frames] -56.2419 [Ac=-3262.0 LM=0.0] (Act=27.6)
+File: Signaux/trois_gabrielides_2012.wav
+SENT-START trois SENT-END  ==  [43 frames] -53.9181 [Ac=-2318.5 LM=0.0] (Act=27.4)
+File: Signaux/trois_hyliass_2012.wav
+SENT-START trois SENT-END  ==  [34 frames] -73.7067 [Ac=-2506.0 LM=0.0] (Act=27.3)
+File: Signaux/trois_jean_2012.wav
+SENT-START trois SENT-END  ==  [49 frames] -55.0673 [Ac=-2698.3 LM=0.0] (Act=27.5)
+File: Signaux/trois_nabil_2012.wav
+SENT-START trois SENT-END  ==  [36 frames] -71.8291 [Ac=-2585.8 LM=0.0] (Act=27.3)
+File: Signaux/trois_thomas_2012.wav
+SENT-START trois SENT-END  ==  [33 frames] -62.0683 [Ac=-2048.3 LM=0.0] (Act=27.2)
+File: Signaux/un_alban_2012.wav
+SENT-START quatre SENT-END  ==  [22 frames] -56.0881 [Ac=-1233.9 LM=0.0] (Act=26.9)
+File: Signaux/un_brice_2012.wav
+SENT-START trois SENT-END  ==  [23 frames] -62.5957 [Ac=-1439.7 LM=0.0] (Act=26.9)
+File: Signaux/un_dominique_2012.wav
+SENT-START cinq SENT-END  ==  [26 frames] -57.4563 [Ac=-1493.9 LM=0.0] (Act=27.0)
+File: Signaux/un_eric_2012.wav
+SENT-START cinq SENT-END  ==  [39 frames] -57.8148 [Ac=-2254.8 LM=0.0] (Act=27.4)
+File: Signaux/un_etienne_2012.wav
+SENT-START un SENT-END  ==  [14 frames] -50.3310 [Ac=-704.6 LM=0.0] (Act=26.2)
+File: Signaux/un_gabrielides_2012.wav
+SENT-START un SENT-END  ==  [27 frames] -53.4426 [Ac=-1442.9 LM=0.0] (Act=27.1)
+File: Signaux/un_hyliass_2012.wav
+SENT-START cinq SENT-END  ==  [26 frames] -64.4471 [Ac=-1675.6 LM=0.0] (Act=27.0)
+File: Signaux/un_jean_2012.wav
+SENT-START un SENT-END  ==  [28 frames] -52.9338 [Ac=-1482.1 LM=0.0] (Act=27.1)
+File: Signaux/un_nabil_2012.wav
+SENT-START un SENT-END  ==  [22 frames] -60.1812 [Ac=-1324.0 LM=0.0] (Act=26.9)
+File: Signaux/un_thomas_2012.wav
+SENT-START cinq SENT-END  ==  [26 frames] -54.9052 [Ac=-1427.5 LM=0.0] (Act=27.0)
+File: Signaux/zero_alban_2012.wav
+SENT-START zero SENT-END  ==  [67 frames] -52.4048 [Ac=-3511.1 LM=0.0] (Act=27.6)
+File: Signaux/zero_brice_2012.wav
+SENT-START zero SENT-END  ==  [50 frames] -57.7172 [Ac=-2885.9 LM=0.0] (Act=27.5)
+File: Signaux/zero_dominique_2012.wav
+SENT-START zero SENT-END  ==  [66 frames] -53.3610 [Ac=-3521.8 LM=0.0] (Act=27.6)
+File: Signaux/zero_eric_2012.wav
+SENT-START zero SENT-END  ==  [70 frames] -50.7170 [Ac=-3550.2 LM=0.0] (Act=27.6)
+File: Signaux/zero_etienne_2012.wav
+SENT-START zero SENT-END  ==  [61 frames] -55.1732 [Ac=-3365.6 LM=0.0] (Act=27.6)
+File: Signaux/zero_gabrielides_2012.wav
+SENT-START zero SENT-END  ==  [60 frames] -54.4617 [Ac=-3267.7 LM=0.0] (Act=27.6)
+File: Signaux/zero_hyliass_2012.wav
+SENT-START zero SENT-END  ==  [42 frames] -68.9781 [Ac=-2897.1 LM=0.0] (Act=27.4)
+File: Signaux/zero_jean_2012.wav
+SENT-START zero SENT-END  ==  [60 frames] -52.6628 [Ac=-3159.8 LM=0.0] (Act=27.6)
+File: Signaux/zero_nabil_2012.wav
+SENT-START zero SENT-END  ==  [48 frames] -75.6461 [Ac=-3631.0 LM=0.0] (Act=27.5)
+File: Signaux/zero_thomas_2012.wav
+SENT-START zero SENT-END  ==  [52 frames] -55.1129 [Ac=-2865.9 LM=0.0] (Act=27.5)

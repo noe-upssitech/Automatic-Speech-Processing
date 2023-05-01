@@ -1,0 +1,39 @@
+Tue 21 Mar 2023 11:08:36 AM CET
+~~~ modele cinq deja initialise ! ~~~
+~~~ modele deux deja initialise ! ~~~
+~~~ modele huit deja initialise ! ~~~
+~~~ modele moins deja initialise ! ~~~
+~~~ modele neuf deja initialise ! ~~~
+~~~ modele plus deja initialise ! ~~~
+~~~ modele quatre deja initialise ! ~~~
+~~~ modele sept deja initialise ! ~~~
+~~~ modele six deja initialise ! ~~~
+~~~ modele trois deja initialise ! ~~~
+~~~~~~~~~~~ modele un ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/un -l un -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/un -S Listes/wav.all.lst 
+Initialising  HMM Modeles/gabarits/un . . . 
+ States   :   2  3 (width)
+ Mixes  s1:   1  1 ( 39  )
+ Num Using:   0  0
+ Parm Kind:  MFCC_E_D_A
+ Number of owners = 1
+ SegLab   :  un
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  3
+ Updating :  Means Variances MixWeights/DProbs TransProbs
+
+ - system is PLAIN
+10 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP = -1511.94751
+Iteration 2: Average LogP = -1505.45886  Change =     6.48865
+Iteration 3: Average LogP = -1504.97791  Change =     0.48096
+Iteration 4: Average LogP = -1504.89404  Change =     0.08386
+Iteration 5: Average LogP = -1504.76099  Change =     0.13306
+Iteration 6: Average LogP = -1504.27307  Change =     0.48792
+Iteration 7: Average LogP = -1504.27307  Change =     0.00000
+Estimation converged at iteration 8
+Output written to directory current
+~~~ modele zero deja initialise ! ~~~
+Tue 21 Mar 2023 11:08:37 AM CET

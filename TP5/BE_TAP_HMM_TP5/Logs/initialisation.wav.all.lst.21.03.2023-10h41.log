@@ -1,0 +1,22 @@
+Tue 21 Mar 2023 10:41:33 AM CET
+~~~ modele cinq deja initialise ! ~~~
+~~~ modele deux deja initialise ! ~~~
+~~~ modele huit deja initialise ! ~~~
+~~~ modele moins deja initialise ! ~~~
+~~~~~~~~~~~ modele neuf ~~~~~~~~~~~~~
+HInit -A -C Modeles/htk.conf -o Modeles/init/neuf -l neuf -L Labels/ -i 30 -T 1 -m 3 Modeles/gabarits/neuf -S Listes/wav.all.lst 
+  ERROR [+7031]  GetTransMat: Bad Trans Mat Sum in Row 4
+
+HMM Def Error: GetTransMat failed at line 25/col 0/char 1498 in Modeles/gabarits/neuf
+  ERROR [+7050]  HMError:
+  ERROR [+7032]  LoadHMMSet: GetHMMDef failed
+  ERROR [+2128]  Initialise: LoadHMMSet failed
+ FATAL ERROR - Terminating program HInit
+~~~ modele plus deja initialise ! ~~~
+~~~ modele quatre deja initialise ! ~~~
+~~~ modele sept deja initialise ! ~~~
+~~~ modele six deja initialise ! ~~~
+~~~ modele trois deja initialise ! ~~~
+~~~ modele un deja initialise ! ~~~
+~~~ modele zero deja initialise ! ~~~
+Tue 21 Mar 2023 10:41:33 AM CET

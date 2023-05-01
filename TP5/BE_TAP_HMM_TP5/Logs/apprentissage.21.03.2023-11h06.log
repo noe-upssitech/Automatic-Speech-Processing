@@ -1,0 +1,21 @@
+Tue 21 Mar 2023 11:06:26 AM CET
+
+~~~ modele cinq deja calcule ! ~~~
+~~~ modele cinq deja calcule ! ~~~
+~~~ modele deux deja calcule ! ~~~
+~~~ modele huit deja calcule ! ~~~
+~~~ modele moins deja calcule ! ~~~
+~~~ modele neuf deja calcule ! ~~~
+~~~ modele plus deja calcule ! ~~~
+~~~ modele quatre deja calcule ! ~~~
+~~~ modele sept deja calcule ! ~~~
+~~~ modele six deja calcule ! ~~~
+~~~ modele trois deja calcule ! ~~~
+~~~~~~~~~~~ modele un ~~~~~~~~~~
+HRest -A -C Modeles/htk.conf -l un -L Labels/ -M Modeles/appris/ -e 0.005 -i 90 -T 1 -m 3 Modeles/init//un -S Listes/wav.all.lst 
+  ERROR [+5010]  InitSource: Cannot open source file Modeles/init//un
+  ERROR [+7010]  LoadHMMSet: Can't find file
+  ERROR [+2128]  Initialise1: LoadHMMSet failed
+ FATAL ERROR - Terminating program HRest
+~~~ modele zero deja calcule ! ~~~
+Tue 21 Mar 2023 11:06:26 AM CET
